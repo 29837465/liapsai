@@ -1,0 +1,13 @@
+tbody tr :nth-child(odd) {
+    background-color: bisque;
+}
+tbody tr :nth-child(even) {
+    background-color: bisque;
+}
+tbody tr:first-child {
+    background-color: red;
+}
+tbody tr:last-child {
+    background-color: red;
+    padding: 5px;
+}

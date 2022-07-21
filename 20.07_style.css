@@ -1,0 +1,38 @@
+header {
+    background-color: rgb(234, 230, 224);
+    height: 80px;
+    width: 100%;
+}
+
+h1 {
+    float: left;
+	padding-left: 50px;
+}
+h2 {
+    float: left;
+	padding-left: 150px;
+    font-size: 22px;
+    padding-top: 8px;
+}
+h3 {
+    float: left;
+	padding-left: 10px;
+    font-size: 22px;
+    padding-top: 5px;
+}
+h4 {
+    float: left;
+	padding-left: 10px;
+    font-size: 22px;
+    margin-bottom: 2px;
+}
+
+div {
+    background-color: rgb(234, 230, 224);
+    height: 300px;
+    width: 100%;
+    font-size: 20px;
+
+
+
+}
